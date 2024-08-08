@@ -8,7 +8,7 @@ import { Meta, Title } from "@angular/platform-browser";
 })
 export class AppComponent implements OnInit {
 
-  title: string = "Live Resume - Guilherme Borges Bastos";
+  title: string = "Live Resume - Brian Keith Davis";
 
   constructor(
     private titleService: Title,
@@ -20,9 +20,9 @@ export class AppComponent implements OnInit {
     this.titleService.setTitle(this.title);
 
     this.metaTagService.addTags([
-      { name: "keywords", content: "Web Developer, Java Developer, Full-stack Java Developer, DevOps Engineer, Android Developer, Guilherme Borges Bastos Live Resume, Guilherme Borges Bastos Resume, Guilherme Borges Bastos CV, Curriculum Guilherme Borges Bastos, GBASTOS Resumo, gbastos live resume" },
+      { name: "keywords", content: "Web Developer, Java Developer, Full-stack Java Developer, DevOps Engineer, Android Developer, Brian Keith Davis Live Resume, Brian Keith Davis Resume, Brian Keith Davis CV, Curriculum Brian Keith Davis" },
       { name: "robots", content: "index, follow" },
-      { name: "author", content: "Guilherme Borges Bastos" },
+      { name: "author", content: "Brian Keith Davis" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "date", content: "2020-05-12", scheme: "YYYY-MM-DD" },
       { charset: "UTF-8" }
