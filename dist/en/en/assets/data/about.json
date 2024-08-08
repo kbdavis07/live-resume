@@ -1,0 +1,39 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": "<h4>About Me</h4><p>I'm Brian Keith Davis, a seasoned developer with a passion for creating impactful digital experiences. Here's a glimpse into my journey: <h4>Early Beginnings</h4> In 11th grade, I dipped my toes into programming with Turbo Pascal. Soon after, I delved into web development, mastering CSS, HTML, and JavaScript. These early experiences ignited my love for coding. <h4>Evolving Skills</h4> <ul> <li>ASP Classic with Visual Basic Script: My gateway into server-side scripting. </li> <li>ASP.NET MVC: A pivotal step toward building dynamic web applications.</li> <li>.NET Core: Embracing modern frameworks and enhancing performance.</li> <li>.NET 8: My current playground for innovation.</li> </ul><h4>Military and Beyond</h4><p>During my time in the Army, I served as a webmaster at the NSA, using Microsoft Front Page to maintain critical web assets.This experience sharpened my skills and instilled discipline.</p>"
+        }
+    ],
+    "medias": [
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/kbdavis07/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/kbdavis07"
+        }
+
+    ],
+    "hobbies": [
+        {
+            "icon": "biking",
+            "title": "Cycling"
+        },
+        {
+            "icon": "dumbbell",
+            "title": "Gym"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "book",
+            "title": "Read"
+        }
+    ]
+}
